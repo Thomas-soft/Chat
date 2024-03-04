@@ -4,17 +4,17 @@ Lancez le fichier: ``server.py``.
 Une fois lancé, lancez ensuite 1 ou plusieurs fois le ficher: ``client.py``.
 
 Suivez maintenant les instructions indiqués:
-    
+
    ``Your name:`` <Votre pseudo (exemple ci-dessous)>
-    
+
    ``Your name: TOTOTTE``
 
 Bien, vous êtes connecté au serveur, refaites l'étape précédente encore 1 ou plusieurs fois.
 
-Vous pourrez maintenant discuter entre vous.
+Vous pourrez maintenant discuter entre les différents clients.
 
 
-Voici les différentes commandes que vous pouvez executé sur le serveur:
+Voici les différentes commandes que vous pouvez executé du côté serveur:
 
     0: shutdown the server
     1: Number of clients connected
