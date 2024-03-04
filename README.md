@@ -28,4 +28,4 @@ Les commandes servent à:
    - Déconnecter un utilisateur via son pseudo (commande n°2).
    - Lister tout les utilisateurs connectés au serveur (commande n°3).
 
-Attention: Fonctionne que sur un réseau local.
+Remarque: Fonctionne que sur un réseau local.
